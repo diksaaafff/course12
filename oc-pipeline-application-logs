@@ -1,0 +1,5 @@
+[2026-05-07 16:00:01] INFO: Starting application...
+[2026-05-07 16:00:02] INFO: SERVICERUNNING
+[2026-05-07 16:00:03] INFO: Listening on port 8000
+[2026-05-07 16:05:22] 10.129.2.1 - - "GET / HTTP/1.1" 200 -
+[2026-05-07 16:05:25] 10.129.2.1 - - "GET /health HTTP/1.1" 200 -
