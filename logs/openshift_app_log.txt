@@ -1,0 +1,8 @@
+[2026-05-07 15:00:01,123] INFO in app: Starting Flask app on port 8080...
+ * Serving Flask app 'app'
+ * Debug mode: off
+[2026-05-07 15:00:01,125] INFO in _internal:  * Running on all addresses (0.0.0.0)
+[2026-05-07 15:00:01,125] INFO in _internal:  * Running on http://127.0.0.1:8080
+[2026-05-07 15:00:01,125] INFO in _internal:  * Running on http://10.128.2.15:8080 (Press CTRL+C to quit)
+[2026-05-07 15:05:22,456] INFO in _internal: 10.129.2.1 - - [07/May/2026 15:05:22] "GET / HTTP/1.1" 200 -
+[2026-05-07 15:05:25,789] INFO in _internal: 10.129.2.1 - - [07/May/2026 15:05:25] "GET /health HTTP/1.1" 200 -
